@@ -1,0 +1,82 @@
+
+{
+  "items": [
+    {
+      "fruit": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "image": "https://images.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+          "price": "3.00",
+          "description": "One Apple",
+          "colour": [
+            "green",
+            "red"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Orange",
+          "image": "https://images.pexels.com/photos/52533/orange-fruit-vitamins-healthy-eating-52533.jpeg",
+          "price": "4.50",
+          "description": "One Orange",
+          "colour": [
+            "orange"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Strawberry",
+          "image": "https://images.pexels.com/photos/59945/strawberry-fruit-delicious-red-59945.jpeg",
+          "price": "5.50",
+          "description": "500g Strawberries",
+          "colour": [
+            "red"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Watermelon",
+          "image": "https://images.pexels.com/photos/1313267/pexels-photo-1313267.jpeg",
+          "price": "5.00",
+          "description": "One Watermelon",
+          "colour": [
+            "green",
+            "red"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Kiwi",
+          "image": "https://images.pexels.com/photos/51312/kiwi-fruit-vitamins-healthy-eating-51312.jpeg",
+          "price": "3.30",
+          "description": "One Kiwi",
+          "colour": [
+            "green",
+            "brown"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Cherry",
+          "image": "https://images.pexels.com/photos/109274/pexels-photo-109274.jpeg",
+          "price": "8.00",
+          "description": "500g Cherries",
+          "colour": [
+            "red"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Lemon",
+          "image": "https://images.pexels.com/photos/1002543/pexels-photo-1002543.jpeg",
+          "price": "3.00",
+          "description": "One Lemon",
+          "colour": [
+            "yellow"
+          ]
+        }
+      ]
+    }
+  ]
+}
